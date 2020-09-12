@@ -5,6 +5,7 @@ description: '-'
 
 Esse guia contém vários tópicos do Vanilla JS.
 
-- [Variáveis e tipos de dados](/js/var)
+- [1. Variáveis e tipos de dados](/js/var)
+- [2. Operadores](/js/operators)
 - Funções
 - Operadores lógicos
