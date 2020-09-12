@@ -8,3 +8,7 @@
       link: '/js/var'
     - label: '2. Operadores'
       link: '/js/operators'
+- label: Comunidade
+  items:
+    - label: 'Github'
+      link: 'https://github.com/renangabriel27/js-guide'

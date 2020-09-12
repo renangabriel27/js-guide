@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `renanwebdev`,
-    defaultTitle: `renanwebdev`,
-    siteTitleShort: `renanwebdev Docs`,
-    siteDescription: `Blog sobre desenvolvimento web`,
-    siteUrl: `https://renanwebdev.netlify.com`,
+    siteTitle: `Guia JavaScript`,
+    defaultTitle: `Guia JavaScript`,
+    siteTitleShort: `Guia JS`,
+    siteDescription: `Guia JavaScript`,
+    siteUrl: `https://javascript-guide.vercel.app/`,
     siteAuthor: `@renangabriel27`,
     siteLanguage: `pt-BR`,
     themeColor: `#8257E6`,
