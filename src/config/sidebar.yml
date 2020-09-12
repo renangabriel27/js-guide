@@ -4,8 +4,6 @@
   link: '/'
 - label: JavaScript (Vanilla)
   items:
-    - label: 'Guia JavaScript'
-      link: '/js/guide'
     - label: '1. Variáveis e tipos de dados'
       link: '/js/var'
     - label: '2. Operadores'
