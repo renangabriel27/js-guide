@@ -1,0 +1,8 @@
+# Sidebar navigation
+
+- label: 'Introdução'
+  link: '/'
+- label: JavaScript
+  items:
+    - label: 'Guia JavaScript'
+      link: '/js/guide'
