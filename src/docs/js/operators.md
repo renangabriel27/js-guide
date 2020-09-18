@@ -7,7 +7,7 @@ Vamos estudar sobre alguns operadores do JS
 
 - [Operadores aritméticos](#operadores-aritméticos)
 - [Operadores de comparação](#operadores-de-comparação)
-- Operadores lógicos
+- [Operadores lógicos](#operadores-lógicos)
 
 ## Operadores aritméticos 
 
@@ -116,3 +116,31 @@ Maior (ou igual) que, Menor (ou igual) que
 5 < 4 // false
 3 <= 4 // true
 ```
+
+## Operadores lógicos
+
+Em resumo eles combinam os valores e retornam se o valor é `true` ou `false`.
+
+- `&&` (and)
+  - Retorna `true` se as duas condições forem verdadeiras.
+```js
+3 === 3 && 4 === 4 // true
+
+3 === 3 && 4 === 3 //false
+```
+
+- `||` (or)
+  - Só retorna `true` se uma das condições forem verdadeiras.
+```js
+3 === 3 || 4 === 3 // true
+```
+
+- `!` (not)
+  - Inverte um valor.
+```js
+!(3 === 3)  // false
+```
+
+
+
+
